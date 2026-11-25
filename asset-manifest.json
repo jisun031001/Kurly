@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kurly/static/css/main.88ed4c82.css",
-    "main.js": "/Kurly/static/js/main.28366fd8.js",
+    "main.js": "/Kurly/static/js/main.7923f133.js",
     "static/media/banner2.jpg": "/Kurly/static/media/banner2.3d6c132ae0c87e7013a3.jpg",
     "static/media/banner.jpg": "/Kurly/static/media/banner.50689f2c6bf1364ded77.jpg",
     "static/media/banner1.jpg": "/Kurly/static/media/banner1.21b84c687dafafb0e84c.jpg",
@@ -19,10 +19,10 @@
     "static/media/con2.jpg": "/Kurly/static/media/con2.348064e215ec60126dd6.jpg",
     "index.html": "/Kurly/index.html",
     "main.88ed4c82.css.map": "/Kurly/static/css/main.88ed4c82.css.map",
-    "main.28366fd8.js.map": "/Kurly/static/js/main.28366fd8.js.map"
+    "main.7923f133.js.map": "/Kurly/static/js/main.7923f133.js.map"
   },
   "entrypoints": [
     "static/css/main.88ed4c82.css",
-    "static/js/main.28366fd8.js"
+    "static/js/main.7923f133.js"
   ]
 }
