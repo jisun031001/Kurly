@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Kurly/static/css/main.88ed4c82.css",
-    "main.js": "/Kurly/static/js/main.7923f133.js",
+    "main.css": "/Kurly/static/css/main.215839f1.css",
+    "main.js": "/Kurly/static/js/main.57e47c9a.js",
     "static/media/banner2.jpg": "/Kurly/static/media/banner2.3d6c132ae0c87e7013a3.jpg",
     "static/media/banner.jpg": "/Kurly/static/media/banner.50689f2c6bf1364ded77.jpg",
     "static/media/banner1.jpg": "/Kurly/static/media/banner1.21b84c687dafafb0e84c.jpg",
@@ -18,11 +18,11 @@
     "static/media/img4.jpg": "/Kurly/static/media/img4.0e280b9e8bff37633fd7.jpg",
     "static/media/con2.jpg": "/Kurly/static/media/con2.348064e215ec60126dd6.jpg",
     "index.html": "/Kurly/index.html",
-    "main.88ed4c82.css.map": "/Kurly/static/css/main.88ed4c82.css.map",
-    "main.7923f133.js.map": "/Kurly/static/js/main.7923f133.js.map"
+    "main.215839f1.css.map": "/Kurly/static/css/main.215839f1.css.map",
+    "main.57e47c9a.js.map": "/Kurly/static/js/main.57e47c9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ed4c82.css",
-    "static/js/main.7923f133.js"
+    "static/css/main.215839f1.css",
+    "static/js/main.57e47c9a.js"
   ]
 }
